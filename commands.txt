@@ -5,6 +5,7 @@
 | `.help`    | Sends a list of commands from a remote URL.      | `.help`       |
 | `.ping`    | Replies with "Pong!" — a simple connection test. | `.ping`       |
 | `.path`    | Shows the absolute path of the running script.   | `.path`       |
+| `.selfdestruct`  | Deletes rɑt files, and removes traces from system. | `.selfdestruct`   |
 
 ---
 
