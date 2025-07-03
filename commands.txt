@@ -1,1 +1,47 @@
-.getip
+## ✅ General Commands
+
+| Command    | Description                                      | Example       |
+|------------|--------------------------------------------------|---------------|
+| `.help`    | Sends a list of commands from a remote URL.      | `.help`       |
+| `.ping`    | Replies with "Pong!" — a simple connection test. | `.ping`       |
+| `.path`    | Shows the absolute path of the running script.   | `.path`       |
+
+---
+
+## 🌐 Network Tools
+
+| Command    | Description                                        | Example       |
+|------------|----------------------------------------------------|---------------|
+| `.getip`   | Retrieves and sends your public IP address.        | `.getip`      |
+
+---
+
+## 💻 Command Execution
+
+| Command         | Description                                                         | Example                         |
+|-----------------|---------------------------------------------------------------------|---------------------------------|
+| `.exec <cmd>`   | Executes a shell command and returns the output.                    | `.exec whoami`                  |
+| `.pyexec <code>`| Executes a snippet of Python code (restricted environment).         | `.pyexec print("Hello")`        |
+
+---
+
+## 🖥️ System Interaction
+
+| Command    | Description                               | Example |
+|------------|-------------------------------------------|---------|
+| `.ss`      | Takes a screenshot and sends the image.   | `.ss`   |
+
+---
+
+## 🔑 Keylogger Controls
+
+| Command             | Description                                     | Example            |
+|---------------------|-------------------------------------------------|--------------------|
+| `.enablekeylog`     | Starts the keylogger and logs keypresses.       | `.enablekeylog`    |
+| `.disablekeylog`    | Stops the keylogger and sends logged keys.      | `.disablekeylog`   |
+
+---
+
+
+NOTE: We are not responsible for any malicious activities made using this tool.
+By using it, you will be responsible for any consequences that may appear.
