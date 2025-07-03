@@ -5,7 +5,7 @@
 | `.help`    | Sends a list of commands from a remote URL.      | `.help`       |
 | `.ping`    | Replies with "Pong!" — a simple connection test. | `.ping`       |
 | `.path`    | Shows the absolute path of the running script.   | `.path`       |
-| `.kill`  | Deletes rɑt files, and removes traces from system. | `.kill`   |
+| `.kill`    | Deletes rɑt files, and removes traces from system. | `.kill`   |
 
 ---
 
@@ -28,9 +28,10 @@
 
 ## 🖥️ System Interaction
 
-| Command    | Description                               | Example |
-|------------|-------------------------------------------|---------|
-| `.ss`      | Takes a screenshot and sends the image.   | `.ss`   |
+| Command    | Description                               | Example        |
+|------------|-------------------------------------------|----------------|
+| `.ss`      | Takes a screenshot and sends the image.   | `.ss`          |
+| `.msg`     | Displays a popup message box.             | `.msg hello`   |
 
 ---
 
@@ -42,7 +43,6 @@
 | `.disablekeylog`    | Stops the keylogger and sends logged keys.      | `.disablekeylog`   |
 
 ---
-
 
 NOTE: We are not responsible for any malicious activities made using this tool.
 By using it, you will be responsible for any consequences that may appear.
