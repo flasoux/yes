@@ -30,7 +30,7 @@
 
 | Command    | Description                               | Example        |
 |------------|-------------------------------------------|----------------|
-| `.ss`      | Takes a screenshot and sends the image. (buggy)   | `.ss`  |
+| `.ss`      | Takes a screenshot and sends the image. (only works with certain python versions)   | `.ss`  |
 | `.msg`     | Displays a popup message box.             | `.msg hello`   |
 
 ---
